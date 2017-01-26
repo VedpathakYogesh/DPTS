@@ -1,0 +1,6 @@
+c:\users\windows\documents\visual studio 2015\Projects\Test\Test\bin\Test.dll.config
+c:\users\windows\documents\visual studio 2015\Projects\Test\Test\bin\Test.dll
+c:\users\windows\documents\visual studio 2015\Projects\Test\Test\bin\Test.pdb
+c:\users\windows\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.dll
+c:\users\windows\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
